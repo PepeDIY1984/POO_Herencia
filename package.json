@@ -1,0 +1,12 @@
+{
+  "name": "ud5_02_herencia",
+  "version": "1.0.0",
+  "main": "UD5_01_Herencia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
